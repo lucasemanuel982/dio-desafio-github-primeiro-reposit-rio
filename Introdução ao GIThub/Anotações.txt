@@ -21,4 +21,5 @@ CTRL + l -  Limpa
 git status - verifica o status do arquivo, se está untracked, modified, staged…
 git init - iniciar o repositório do git
 git add - mover arquivos e dá início aos primeiros comandos.
-git commit - criar um git commit
+git commit -m ""- criar um git commit
+git push origin main -  salva no github
